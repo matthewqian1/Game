@@ -17,6 +17,7 @@ pygame.display.set_icon(icon)
 # background
 background = pygame.image.load('snow.png')
 
+#hello
 # background music
 mixer.music.load('414673__lena-orsa__a-christmas-tale.mp3')
 mixer.music.play(-1)
