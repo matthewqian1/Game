@@ -12,6 +12,10 @@ Movement - left and right arrow keys.
 
 Shoot - space key. 
 
+### Execute program
+
+Run main.py in the root directory.
+
 ### Levels
 #### 1 - Grinch invaders
 A spin off of the classic Space Invaders game. The Grinch has sent his ghouls to pose as the real Santa and enter chimneys. Santa must shoot them down before they reach the houses.
